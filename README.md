@@ -2,23 +2,30 @@
 WereLive - Onde há vida?!
 Um projeto que traz a relevante vida da fauna.
 
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a> |
+  <a href="#páginas">Páginas</a>
+</p>
+
 <br>
 <h2>QR code para ver o site completo</h2>
 <img src="./imgreadme/WereLife.png" width="300" height="300">
 
 <br>
 
-## Tecnologias
+# Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-![Generic badge](https://img.shields.io/badge/-HTML5%20-green)<br>
-![Maintainer](https://img.shields.io/badge/-CSS3-blue)<br>
-![Maintainer](https://img.shields.io/badge/-Javascript-yellow)<br>
-![Maintainer](https://img.shields.io/badge/-Bootstrap-red)<br>
+![Generic badge](https://img.shields.io/badge/-HTML5%20-green)
+![Maintainer](https://img.shields.io/badge/-CSS3-blue)
+![Maintainer](https://img.shields.io/badge/-Javascript-yellow)
+![Maintainer](https://img.shields.io/badge/-Bootstrap-red)
+<br>
 
 
 # Páginas 
+<br>
 
 ## Inicial 
 
@@ -38,6 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Contatos
 
 <img src="./imgreadme/paginacontatos.jpg">
+<br>
 
 # Compartilhamos imagens e vídeos dos animais em seu habitat natural bem como em zoológicos e criatórios devidamente autorizados.
 # Temos também uma geleria especifica para você que quer ser nosso parceiro Free -  Petshop, Criatórios e Casas de Ração.
