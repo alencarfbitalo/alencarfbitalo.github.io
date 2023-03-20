@@ -1,7 +1,10 @@
 # WereLive - Onde há vida?!
 WereLive - Onde há vida?!
 Um projeto que traz a relevante vida da fauna.
-[![license][licenca-badge]][LICENSE]
+<br>
+
+![Maintainer](https://img.shields.io/badge/License-MIT-orange)
+
 <br>
 <p align="center">
   <a href="#tecnologias">Tecnologias</a> |
