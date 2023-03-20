@@ -7,16 +7,10 @@
   --white-color:                  #ffffff; /* Botões letras menu*/
   --dark-color:                   #AA5F00; /* Fundo letras menu*/
   --primary-color:                #F5BC2A; /* Fundo menu principal*/
-
-
   --custom-btn-bg-color:          #F5BC2A;; /* Botões Iniciais*/
   --custom-btn-bg-hover-color:    #32C5F4; /* Botões Iniciais*/
-
-
   --p-color:                      #F5BC2A; /* Fundo texto*/
-
   --link-hover-color:             #32C5F4; /* Link texto*/
-
   --body-font-family:             'Unbounded', cursive; /* Corpo do projeto*/
 
 
@@ -251,11 +245,6 @@ strong {
 
 
 
-/*--------------------------------------------------------------------------------*/
-
-
-
-
 /*---------------------------------------
   INICIAL      
 -----------------------------------------*/
@@ -275,8 +264,11 @@ strong {
 @media screen and (min-width: 991px) {
   .hero-section {
     height: calc(100vh - 0px);
+    flex: 100%;
+    max-width: 100%;
   }
-}
+    
+  }
 
 .hero-section .container {
   position: relative;
@@ -401,12 +393,10 @@ strong {
   .back-top-icon {
     font-size: var(--h2-font-size);
   }
+
+
+
   
-
-
-
-
-
 /*---------------------------------------
   SOBREPOSIÇÃO DO FUNDO IMG               
 -----------------------------------------*/
