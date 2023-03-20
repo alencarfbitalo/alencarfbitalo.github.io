@@ -52,4 +52,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 # Compartilhamos imagens e vídeos dos animais em seu habitat natural bem como em zoológicos e criatórios devidamente autorizados.
-# Temos também uma geleria especifica para você que quer ser nosso parceiro Free -  Petshop, Criatórios e Casas de Ração.
+# Contamos com uma geleria especifica para você que quer ser nosso parceiro Free -  Petshop, Criatórios e Casas de Ração.
