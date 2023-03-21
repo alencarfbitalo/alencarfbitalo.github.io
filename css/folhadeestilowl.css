@@ -37,6 +37,9 @@
 body {
   background-color: var(--white-color);
   font-family: var(--body-font-family); 
+  height: 100%;
+  margin: 0;
+
 }
 
 
@@ -248,25 +251,19 @@ strong {
 /*---------------------------------------
   INICIAL      
 -----------------------------------------*/
+
 .hero-section {
-  background-image: url('../images/img.jpg'); /* Fundo Inicial*/
+  /* A imagem usada */
+  background-image: url('../images/img.jpg');
+  height: calc(100vh - 0px);
+  
+  /* Centraliza e dimensiona bem a imagem */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
-  margin: 0;
-  padding: 50px;
-  padding-bottom: 0;
-  border-bottom: 15px
 }
 
-@media screen and (min-width: 991px) {
-  .hero-section {
-    height: calc(100vh - 0px);
-  }
-    
-  }
 
 .hero-section .container {
   position: relative;
