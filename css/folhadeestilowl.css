@@ -255,6 +255,7 @@ strong {
 .hero-section {
   /* A imagem usada */
   background-image: url('../images/img.jpg');
+  
   height: calc(100vh - 0px);
   
   /* Centraliza e dimensiona bem a imagem */
