@@ -250,22 +250,16 @@ strong {
 -----------------------------------------*/
 .hero-section {
   background-image: url('../images/img.jpg'); /* Fundo Inicial*/
-  background-repeat: no-repeat;
+  background-size: 100% 100%;
   background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  overflow: hidden;
   padding: 50px;
   padding-bottom: 0;
-  min-height: 665px;
+  border-bottom: 15px
 }
 
 @media screen and (min-width: 991px) {
   .hero-section {
     height: calc(100vh - 0px);
-    flex: 100%;
-    max-width: 100%;
   }
     
   }
