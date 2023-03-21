@@ -250,8 +250,12 @@ strong {
 -----------------------------------------*/
 .hero-section {
   background-image: url('../images/img.jpg'); /* Fundo Inicial*/
-  background-size: 100% 100%;
   background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
   padding: 50px;
   padding-bottom: 0;
   border-bottom: 15px
