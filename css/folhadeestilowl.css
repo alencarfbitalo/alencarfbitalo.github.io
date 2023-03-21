@@ -36,10 +36,7 @@
 
 body {
   background-color: var(--white-color);
-  font-family: var(--body-font-family); 
-  height: 100%;
-  margin: 0;
-
+  font-family: var(--body-font-family);
 }
 
 
@@ -245,9 +242,6 @@ strong {
   top: 8px;
 }
 
-
-
-
 /*---------------------------------------
   INICIAL      
 -----------------------------------------*/
@@ -255,24 +249,31 @@ strong {
 .hero-section {
   /* A imagem usada */
   background-image: url('../images/img.jpg');
-  
-  height: calc(100vh - 0px);
-  
+
+  padding: 50px;
+  padding-bottom: 0;
+  min-height: 665px;
+
   /* Centraliza e dimensiona bem a imagem */
-  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+  
 }
 
+@media screen and (min-width: 300px) {
+  .hero-section {
+    height: calc(100vh - 0px);
+  }
+}
 
 .hero-section .container {
   position: relative;
   z-index: 2;
 }
-
-
-
 
 /*---------------------------------------
   Imagens & Vídeos              
@@ -296,9 +297,6 @@ strong {
   position: static;
 }
 
-
-
-
 /*---------------------------------------
   PARCEIROS              
 -----------------------------------------*/
@@ -319,9 +317,6 @@ strong {
   transition: all 0.3s;
 }
 
-
-
-
 /*---------------------------------------
   CONTATOS               
 -----------------------------------------*/
@@ -330,8 +325,6 @@ strong {
   border-radius: var(--border-radius-medium);
   filter: hue-rotate(175deg);
 }
-
-
 
 
 /*---------------------------------------
@@ -356,8 +349,6 @@ strong {
   font-size: 15px;
   color: #F5BC2A;
 }
-
-
 
 
 /*---------------------------------------
@@ -390,9 +381,6 @@ strong {
     font-size: var(--h2-font-size);
   }
 
-
-
-  
 /*---------------------------------------
   SOBREPOSIÇÃO DO FUNDO IMG               
 -----------------------------------------*/
@@ -414,9 +402,6 @@ strong {
   transform: scale(1.04);
 }
 
-
-
-
 /*---------------------------------------
   BOTÃO PERSONALIZADO INICIAL             
 -----------------------------------------*/
@@ -429,7 +414,7 @@ strong {
   font-weight: var(--font-weight-bold);
   line-height: normal;
   transition: all 0.3s;
-  padding: 10px 20px;
+  padding: 5px 10px;
 }
 
 .custom-btn:hover {
@@ -451,9 +436,6 @@ strong {
 .custom-btn-italic {
   font-style: italic;
 }
-
-
-
 
 /*---------------------------------------
   ICONES REDE              
