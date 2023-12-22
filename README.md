@@ -1,4 +1,4 @@
-# WereLive - Onde há vida?!
+# WereLife - Onde há vida?!
 WereLive - Onde há vida?!
 Um projeto que traz a relevante vida da fauna.
 <br>
