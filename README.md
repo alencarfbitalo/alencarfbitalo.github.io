@@ -1,5 +1,5 @@
-# WereLife - Onde há vida?!
-WereLive - Onde há vida?!
+# WhereLife - Onde há vida?!
+WhereLive - Onde há vida?!
 Um projeto que traz a relevante vida da fauna.
 <br>
 
